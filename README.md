@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Enes 
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning VueJS 
+- 🌱 I’m currently learning React 
 - 📫 eneskalkan36e@gmail.com
 
 <!---
