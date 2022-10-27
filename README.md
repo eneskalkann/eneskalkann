@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">FrontEnd Developer</h3>
+<h1 align="center">Hi 👋, I'm Muhammet Enez</h1>
+<h3 align="center">I am a FrontEnd Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
