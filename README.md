@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muhammet Enez</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+</picture> , I'm Muhammet Enez</h1>
 <h3 align="center">I am a FrontEnd Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
