@@ -27,4 +27,7 @@
 
 </p>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/5x5iPtXlR4LzwXzZhi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ufc-embedded-ufc-254-5x5iPtXlR4LzwXzZhi">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/75678744/198701560-1c2d8d24-4079-479a-95b4-c65972c67727.gif)
+
+
+
