@@ -4,13 +4,9 @@
 </picture> , I'm Muhammet Enez</h1>
 <h3 align="center">I am a FrontEnd Developer</h3>
 
-- 🌱 I’m currently learning **ReactJS and NextJS**
+<p align="center">Hi there, my name is Muhammet Enez. I'm FrontEnd Developer based in Tekirdag. I started to my education in department of Management Infromation Systems at Akdeniz University in September 2019. I am currently 4th grade student.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/eneskalkann](https://github.com/eneskalkann)
-
-- 💬 Ask me about **everythink you want**
-
-- 📫 How to reach me **eneskalkan36e@gmail.com**
+<p>Mail Adress => eneskalkan36e@gmail.com</p>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
