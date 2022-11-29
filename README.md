@@ -23,9 +23,7 @@
 
 </p>
 
-
-![gif](https://user-images.githubusercontent.com/75678744/198702408-64c7b76b-d250-4f0e-a174-41a09346297d.gif)
-
+![giphy (1)](https://user-images.githubusercontent.com/75678744/204629951-fff270c4-5c68-46d4-baac-6a345eff91f1.gif)
 
 
 
