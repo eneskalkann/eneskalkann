@@ -5,8 +5,8 @@
 <h3 align="center">I am a FrontEnd Developer</h3>
 
 <p align="center">Hi there, my name is Muhammet Enez. I'm FrontEnd Developer based in Tekirdag. I started to my education in department of Management Infromation Systems at Akdeniz University in September 2019. I am currently 4th grade student.</p>
-
-<p>Mail Adress => eneskalkan36e@gmail.com</p>
+<br/><br/>
+<p align="center">Mail Adress => eneskalkan36e@gmail.com</p>
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
