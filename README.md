@@ -1,7 +1,4 @@
-<h1 align="center">Hi <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture> , I'm Muhammet Enez</h1>
+<h1 align="center">Hi, I'm Muhammet Enez</h1>
 <h3 align="center">I am a FrontEnd Developer</h3>
 
 <p align="center">Hi there, my name is Muhammet Enez. I'm FrontEnd Developer based in Tekirdag. I started to my education in department of Management Infromation Systems at Akdeniz University in September 2019. I am currently 4th grade student.</p>
