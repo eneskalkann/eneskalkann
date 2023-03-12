@@ -3,6 +3,7 @@
 <p align="left">Hello everyone, my name is Muhammet Enez and I'm a FrontEnd Developer based in Tekirdag. I started my education in the department of Management Information Systems at Akdeniz University in September 2019, and I'm currently a fourth-year student.</p>
 <br/>
 <h3>Languages and Tools</h3>
+<div>
 <img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="enezkalkan" />
@@ -12,6 +13,7 @@
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="enezkalkan" />
+</div>
 <br/>
 <h3>Social Media</h3>
 <p align="left">
