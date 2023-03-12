@@ -2,7 +2,7 @@
 <h3 align="left">I am a FrontEnd Developer</h3>
 
 <p align="left">Hello everyone, my name is Muhammet Enez and I'm a FrontEnd Developer based in Tekirdag. I started my education in the department of Management Information Systems at Akdeniz University in September 2019, and I'm currently a fourth-year student.</p>
-<br/><br/>
+<br/>
 
 
 <h3 align="left">Social Media:</h3>
