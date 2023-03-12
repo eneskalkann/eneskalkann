@@ -2,7 +2,7 @@
 
 <p align="left">Hello everyone, my name is Muhammet Enez and I'm a FrontEnd Developer based in Tekirdag. I started my education in the department of Management Information Systems at Akdeniz University in September 2019, and I'm currently a fourth-year student.</p>
 <br/>
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enezkalkan" />
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="enezkalkan" />
 
 
 
