@@ -12,7 +12,6 @@
 <img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="enezkalkan" />
- <br/> <br/>
 <img align="left" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="enezkalkan" />
 </div>
 <br/>
