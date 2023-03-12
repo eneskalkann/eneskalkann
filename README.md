@@ -10,11 +10,7 @@
 <img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="enezkalkan" />
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="enezkalkan" />
-
-
-
-
-
+<br/>
 <h3>Social Media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enes-kalkann" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enez-kalkann" height="30" width="40" /></a>
