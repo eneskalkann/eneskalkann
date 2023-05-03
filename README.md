@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Muhammet Enez</h1>
 <br/>
-<p align="left">Hello everyone, my name is Muhammet Enez and I'm a FrontEnd Developer based in Tekirdag. I started my education in the department of Management Information Systems at Akdeniz University in September 2019, and I'm currently a fourth-year student.</p>
+<p align="left">I'm a passionate Frontend Developer based in Tekirdag. I like to deal with web and mobile related works and always improve myself with new knowledge. Developing my creativity and knowledge by being in this world gives me self-reliance and assists me to do my job with love.</p>
 <br/>
 <h3>Social Media</h3>
 <p align="left">
